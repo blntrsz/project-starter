@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint **/*.ts --cache"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
